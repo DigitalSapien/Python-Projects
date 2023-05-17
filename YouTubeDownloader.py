@@ -1,4 +1,4 @@
-# Creating a Advanced YouTube Video Downloader
+# Basic YouTube Video Downloader
 
 from pytube import YouTube
 
@@ -17,5 +17,5 @@ print ("Download Completed.")
 
 
 
-# !! Can't Download Age-Restricted Videos from YouTube
-# !! Can't Download High-Resolution Videos from YouTube
+# !! Age-Restricted Videos from YouTube
+# !! High-Resolution Videos from YouTube
