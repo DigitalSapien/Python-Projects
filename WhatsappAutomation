@@ -1,0 +1,3 @@
+import pywhatkit
+
+pywhatkit.sendwhatmsg('+919500573206', 'This is a automated message', 23, 35)
